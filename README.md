@@ -3,7 +3,7 @@
 Project Overview
 1. User Interface (UI)
 Create a clean and intuitive user interface for a to-do list.
-Use HTML, CSS, and Bootstrap for styling.
+Use Swift language.
 2. Display Tasks
 Display a list of tasks with their names.
 3. Add New Tasks
